@@ -1,0 +1,15 @@
+C:\Users\Joshua\Desktop\lab 4 exercise 2 Population\lab 4 exercise 2 Population\bin\Debug\lab 4 exercise 2 Population.exe.config
+C:\Users\Joshua\Desktop\lab 4 exercise 2 Population\lab 4 exercise 2 Population\obj\Debug\lab 4 exercise 2 Population.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\lab 4 exercise 2 Population\lab 4 exercise 2 Population\obj\Debug\lab_4_exercise_2_Population.Form1.resources
+C:\Users\Joshua\Desktop\lab 4 exercise 2 Population\lab 4 exercise 2 Population\obj\Debug\lab_4_exercise_2_Population.Properties.Resources.resources
+C:\Users\Joshua\Desktop\lab 4 exercise 2 Population\lab 4 exercise 2 Population\obj\Debug\lab 4 exercise 2 Population.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\lab 4 exercise 2 Population\lab 4 exercise 2 Population\bin\Debug\lab 4 exercise 2 Population.exe
+C:\Users\Joshua\Desktop\lab 4 exercise 2 Population\lab 4 exercise 2 Population\bin\Debug\lab 4 exercise 2 Population.pdb
+C:\Users\Joshua\Desktop\lab 4 exercise 2 Population\lab 4 exercise 2 Population\obj\Debug\lab 4 exercise 2 Population.exe
+C:\Users\Joshua\Desktop\lab 4 exercise 2 Population\lab 4 exercise 2 Population\obj\Debug\lab 4 exercise 2 Population.pdb
+C:\Users\Joshua\Desktop\lab 4 submit\lab 4 exercise 2 Population\lab 4 exercise 2 Population\bin\Debug\lab 4 exercise 2 Population.exe.config
+C:\Users\Joshua\Desktop\lab 4 submit\lab 4 exercise 2 Population\lab 4 exercise 2 Population\obj\Debug\lab 4 exercise 2 Population.exe
+C:\Users\Joshua\Desktop\lab 4 submit\lab 4 exercise 2 Population\lab 4 exercise 2 Population\obj\Debug\lab 4 exercise 2 Population.pdb
+C:\Users\Joshua\Desktop\C#\lab 4 submit\lab 4 exercise 2 Population\lab 4 exercise 2 Population\bin\Debug\lab 4 exercise 2 Population.exe.config
+C:\Users\Joshua\Desktop\C#\lab 4 submit\lab 4 exercise 2 Population\lab 4 exercise 2 Population\obj\Debug\lab 4 exercise 2 Population.exe
+C:\Users\Joshua\Desktop\C#\lab 4 submit\lab 4 exercise 2 Population\lab 4 exercise 2 Population\obj\Debug\lab 4 exercise 2 Population.pdb
